@@ -1,5 +1,6 @@
 !5.txt
 1.txt
-#6.txt
-*jpg
-
+6.txt
+!*jpg
+!/images/
+/images/**/*txt
